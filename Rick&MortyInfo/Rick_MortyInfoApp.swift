@@ -2,7 +2,7 @@
 //  Rick_MortyInfoApp.swift
 //  Rick&MortyInfo
 //
-//  Created by Carlos Chica on 2/3/23.
+//  Created by Carlos Chica on 01/05/2024.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct Rick_MortyInfoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
